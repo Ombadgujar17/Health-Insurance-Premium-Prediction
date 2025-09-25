@@ -10,7 +10,6 @@ This project predicts health insurance premiums based on user input using a trai
   - Number of Children
   - Smoking status
 - User-friendly web interface (Streamlit)
-- Flask app for alternative deployment
 
 ## Project Structure
 ```
